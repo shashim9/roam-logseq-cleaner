@@ -3,6 +3,8 @@
 Merge multiple **Roam Research** or **Logseq** JSON / ZIP exports into a
 _single_, duplicate‑free backup that Roam can import as a fresh graph.
 
+Particularly useful for people who've gone from Roam to Logseq, and then back to Roam.
+
 IMPORTANT: All code (and this README) was written by ChatGPT o3. I've used this on my own graphs and it seems to work fine, but use at your own peril.
 
 ## Features
